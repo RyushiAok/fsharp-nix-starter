@@ -2,6 +2,7 @@
 
 ```sh
 nix develop
+dotnet restore
 dotnet run --project src/sample
 ```
 
